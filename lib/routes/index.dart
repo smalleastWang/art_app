@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:art_app/routes/routes_widget.dart';
 
-var isLogin = false;
+var isLogin = true;
 
 // 不需要登录的路由
 Map<String, WidgetBuilder> routes = {
